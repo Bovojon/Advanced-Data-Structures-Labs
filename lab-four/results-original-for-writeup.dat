@@ -1,0 +1,8 @@
+The time taken (in seconds) for 120 insertions by a binary search tree is 0.007931232452392578. 
+The time taken (in seconds) for 120 insertions by a red-black tree is 0.011318206787109375. 
+
+The time taken (in seconds) for 120 lookups by a binary search tree is 0.006999969482421875. 
+The time taken (in seconds) for 120 lookups by a red-black tree is 0.005501747131347656. 
+
+The time taken (in seconds) for 120 deletions by a binary search tree is 0.007130622863769531. 
+The time taken (in seconds) for 120 deletions by a red-black tree is 0.009614944458007812. 
