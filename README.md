@@ -1,3 +1,5 @@
-# Advanced Data Structures Labs
+# Binomial Trees and Heaps
 
->> The files for each lab is in the corresponding branch.
+To run the test file:
+* `cd` into directory
+* run `python test-binomial_heap_v1.py`
